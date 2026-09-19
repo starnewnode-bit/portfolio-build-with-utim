@@ -1,0 +1,40 @@
+{
+  "bg-1": {
+    "id": "bg-1",
+    "cmd": "php artisan serve",
+    "cwd": "/data/data/com.termux/files/home/projects/portfolio",
+    "pid": 4026,
+    "start_time": 1789236297.3603694,
+    "start_time_iso": "2026-09-12T18:04:57Z",
+    "status": "running",
+    "log_file": ".utim_tmp/tasks/bg-1.log",
+    "exit_code": null,
+    "duration_seconds": null
+  },
+  "bg-2": {
+    "id": "bg-2",
+    "cmd": "composer require laravel/boost --dev",
+    "cwd": "/data/data/com.termux/files/home/projects/portfolio",
+    "pid": 7360,
+    "start_time": 1789236762.218718,
+    "start_time_iso": "2026-09-12T18:12:42Z",
+    "status": "completed",
+    "log_file": ".utim_tmp/tasks/bg-2.log",
+    "exit_code": 0,
+    "duration_seconds": 30.52,
+    "end_time": 1789236789.68104,
+    "end_time_iso": "2026-09-12T18:13:09Z"
+  },
+  "bg-3": {
+    "id": "bg-3",
+    "cmd": "php artisan boost:install",
+    "cwd": "/data/data/com.termux/files/home/projects/portfolio",
+    "pid": 8135,
+    "start_time": 1789236828.5375998,
+    "start_time_iso": "2026-09-12T18:13:48Z",
+    "status": "running",
+    "log_file": ".utim_tmp/tasks/bg-3.log",
+    "exit_code": null,
+    "duration_seconds": null
+  }
+}
